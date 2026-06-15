@@ -1,0 +1,3 @@
+Al ejecutar el comando node server.js se ejecuta el servidor que se creo en la carpeta usando la terminal.
+El mensaje que aparece al ejecutar este comando es "Servidor ejecutandose en puerto 3000" lo cual nos indica que el servidor se encuentra activo
+Al visitar la ruta /estado nos da una respuesta descrita en el codigo al momento de crear el servidor 
